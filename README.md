@@ -1,2 +1,2 @@
 # multithreaded-primes
-implementation of finding prime numbers using multithreading and sieve of eratosthenes (pthreads and mutex)
+implementation of finding prime numbers using multithreading (pthreads and mutex) and sieve of eratosthenes
